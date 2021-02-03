@@ -1,0 +1,252 @@
+* {box-sizing: border-box}
+
+.global-con{
+    width: 600px;
+    
+}
+
+
+.main-header{
+    position: relative;
+    background-color: #000;
+    color: #fff;
+    width: 1400px;
+    height: 65px;
+}
+.netflix-logo {
+    fill: #e50914;
+    width: 100px;
+    position: relative;
+    left: 200px;
+    top: 5px;
+  }
+
+
+.help{
+    display: inline;
+    position: relative;
+    left: 220px;
+    top: 5px;
+    font-family: "Roboto", sans-serif;
+  
+
+}
+.help:hover{
+    text-decoration: underline;
+    
+}
+.line{
+    display: inline;
+    position: relative;
+    top: 10px;
+    left: 210px;
+    height: 30px;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+.bt1{
+position: relative;
+left: 940px;
+bottom: 30px;
+background-color: #000;
+color: #fff;
+padding: 10px 15px;
+border-radius: 5px;
+font-size: x-small;
+border-color: #fff;
+font-family: "Roboto", sans-serif;
+}
+
+.bt1:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+.bt2{
+position: relative;
+left: 950px;
+bottom: 30px;
+background-color: #e50914;
+color: #fff;
+padding: 10px 15px;
+border: none;
+border-radius: 5px;
+font-size: x-small;
+font-family: "Roboto", sans-serif;
+}
+
+
+.ar{
+    position: relative;
+    left: 250px;
+    top: 20px;
+    color: #e50914;
+    font-family: "Roboto", sans-serif;
+}
+.ba{
+    display: inline;
+    position: relative;
+    top: -15px;
+    left: 270px;
+    color: #e50914;
+    font-family: "Roboto", sans-serif;
+    width: max-content;
+
+}
+.ba:hover{
+    text-decoration: underline;
+}
+.co{
+    position: relative;
+    left: 250px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    font-family: "Roboto", sans-serif;
+}
+.net{
+    position: relative;
+    left: 250px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #4c4948;
+    line-height: 48px;
+    font-family: "Roboto", sans-serif;
+}
+.contact{
+    position: relative;
+    left: 250px;
+    bottom: 25px ;
+    color: #4c4948;
+    font-family: "Roboto", sans-serif;
+    line-height: 30px;
+}
+.do{
+    position: relative;
+    left: 250px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: #4c4948;
+}
+.badge1{
+    position: relative;
+    left: 250px;
+}
+.badge2{
+    position: relative;
+    left: 405px;
+    bottom: 55px;
+  
+}
+.que{
+    position: relative;
+    left: 250px;
+    bottom: 34px;
+}
+.le{
+    display: inline;
+    position: relative;
+    left: 335px;
+    bottom: 75px;
+    color: #e50914;
+    font-family: "Roboto", sans-serif;
+}
+.le:hover{
+text-decoration: underline;
+}
+.hr1{
+    position: relative;
+    left: 250px;
+    bottom: 70px;
+    font-weight: bolder;
+}
+.call{
+    position: relative;
+    left: 250px;
+    bottom: 60px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+}
+.ph{
+    position: relative;
+    left: 250px;
+    bottom: 70px;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+}
+.callus{
+    position: relative;
+    left: 250px;
+    bottom: 70px;
+    color: #4c4948;
+    font-family: "Roboto", sans-serif;
+}
+.callbt{
+    position: relative;
+    left: 250px;
+    bottom: 70px;
+    color:#615e5d;
+    font-weight: bolder;
+    border-color:rgb(209, 205, 205);
+    border-radius: 4px;
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+    padding: 10px 15px 10px;
+    border-width: thin;
+
+    
+   
+}
+.callbt:hover{
+    background-color: #f2f0ef;
+}
+.hr2{
+    position: relative;
+    left: 250px;
+    bottom: 63px;
+    
+}
+.livechat{
+    position: relative;
+    left: 250px;
+    bottom: 60px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+}
+.you{
+    position: relative;
+    left: 250px;
+    bottom: 70px;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+}
+.livechatbt{
+    position: relative;
+    left: 250px;
+    bottom: 59px;
+    color:#615e5d;
+    font-weight: bolder;
+    border-color:rgb(209, 205, 205);
+    border-radius: 4px;
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+    padding: 10px 15px 10px;
+    border-width: thin;
+}
+.livechatbt:hover{
+    background-color: #f2f0ef;
+}
+.pop{
+    position: relative;
+    left: 920px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #4c4948;
+    line-height: 48px;
+    font-family: "Roboto", sans-serif;
+    bottom: 786px;
+}
